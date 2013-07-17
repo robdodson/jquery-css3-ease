@@ -1,0 +1,27 @@
+{
+  "name": "jquery-css3-ease",
+  "version": "0.0.1",
+  "description": "A jQuery plugin for Penner easing equations in CSS3",
+  "author": "Rob Dodson <lets.email.rob@gmail.com>",
+  "main": "cssEase.js",
+  "dependencies": {
+    "jquery": ">=1.10.2"
+  },
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "keywords":[
+    "css",
+    "easing",
+    "formulas",
+    "animation"
+  ],
+  "homepage": "https://github.com/robdodson/jquery-css3-ease",
+  "bugs": "https://github.com/robdodson/jquery-css3-ease/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robdodson/jquery-css3-ease.git"
+  },
+  "licenses":[]
+}
